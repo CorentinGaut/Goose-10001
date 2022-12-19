@@ -1,6 +1,6 @@
 # Goose-10001
 
-Goose 1001 est un jeu de l’oie comme on n’en a jamais vue ! Prenez le contrôle de votre pion en bois et prenez le risque de lancer le dé pour parcourir le plateau jonché de piège et de boss. Le dark souls des jeux de plateaux ! Ce jeu a été développé sous Unity par [4 étudiants infographiste](#a-propos). 
+Goose 1001 est un jeu de l’oie comme on n’en a jamais vue ! Prenez le contrôle de votre pion en bois et prenez le risque de lancer le dé pour parcourir le plateau jonché de piège et de boss. Le dark souls des jeux de plateaux ! Ce jeu a été développé sous Unity par [4 étudiants infographiste](#a-propos) qui ont produit tout les visuels du jeu. 
 
 Starting Menu        |  Victory UI
 :-------------------------:|:-------------------------:
