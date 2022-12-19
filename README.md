@@ -1,11 +1,16 @@
 # Goose-10001
+Starting Menu        |  Victory UI
+:-------------------------:|:-------------------------:
+  ![image](Doc/StartMenu.png)  |  ![image](Doc/Victory.png)
+
+Boss picture            |  Game picture
+:-------------------------:|:-------------------------:
+![image](Doc/Boss.png)  |  ![image](Doc/Game.png)
+
+  
+  
 
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-  ![image](Doc/Boss.png)
-  ![image](Doc/Game.png)
-  ![image](Doc/StartMenu.png)
-</div>
 
 Formation GAMAGORA I3D
 
