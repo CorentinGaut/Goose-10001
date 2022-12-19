@@ -4,6 +4,8 @@ Goose 1001 est un jeu de l’oie comme on n’en a jamais vue ! Prenez le contr�
 
 Lien de l'excutable : [ici](https://github.com/CorentinGaut/Goose-10001/blob/main/BuildGoose-10001/Goose_10001.exe)
 
+Lien vidéo d'une partie de jeu : https://www.youtube.com/watch?v=Eof5xp5ilzI
+
 Starting Menu        |  Victory UI
 :-------------------------:|:-------------------------:
   ![image](Doc/StartMenu.png)  |  ![image](Doc/Victory.png)
