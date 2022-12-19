@@ -1,8 +1,11 @@
 # Goose-10001
 
-![image alt >](Doc/Boss.png)
-![image alt <](Doc/Game.png)
-![image alt ><](Doc/StartMenu.png)
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+  ![image](Doc/Boss.png)
+  ![image](Doc/Game.png)
+  ![image](Doc/StartMenu.png)
+</div>
 
 Formation GAMAGORA I3D
 
