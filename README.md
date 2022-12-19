@@ -1,5 +1,9 @@
 # Goose-10001
 
+![image alt >](Doc/Boss.png)
+![image alt <](Doc/Game.png)
+![image alt ><](Doc/StartMenu.png)
+
 Formation GAMAGORA I3D
 
 Cours de programmation 2022 - Corentin GAUTIER
